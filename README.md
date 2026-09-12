@@ -1,4 +1,4 @@
-# Hi, I'm Anushka Patel 👋
+# Hi, I'm Anushka Patel 
 
 ### CSE (AI & ML) Student | Aspiring Software Engineer
 
