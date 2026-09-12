@@ -10,7 +10,7 @@ I enjoy learning by building and exploring how technology can be used to solve r
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 - **Languages:** C, C++, Java, Python, SQL
 - **Core:** Data Structures & Algorithms, OOP, DBMS
@@ -19,7 +19,7 @@ I enjoy learning by building and exploring how technology can be used to solve r
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 - **TruthLens** — AI-powered misinformation detection and fact-checking platform
 - **Kalarakshak** — Platform connecting authentic product sellers with buyers
@@ -27,7 +27,7 @@ I enjoy learning by building and exploring how technology can be used to solve r
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Data Structures & Algorithms
 - Advanced Java & OOP
@@ -37,6 +37,6 @@ I enjoy learning by building and exploring how technology can be used to solve r
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 To become a strong software engineer by continuously learning, building, and solving real-world problems.
