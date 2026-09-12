@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Anushka Patel 👋
 
-<!--
-**anushka-patel-dev/anushka-patel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE (AI & ML) Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science & Engineering student interested in software development, artificial intelligence, and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm strengthening my foundations in Data Structures & Algorithms, DBMS, Object-Oriented Programming, and AI/ML while building practical projects.
+
+I enjoy learning by building and exploring how technology can be used to solve real-world problems.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** C, C++, Java, Python, SQL
+- **Core:** Data Structures & Algorithms, OOP, DBMS
+- **AI/ML:** OpenCV, MediaPipe
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🚀 Projects
+
+- **TruthLens** — AI-powered misinformation detection and fact-checking platform
+- **Kalarakshak** — Platform connecting authentic product sellers with buyers
+- **Gesture-Controlled Music System** — Exploring computer vision and gesture-based interaction
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced Java & OOP
+- DBMS
+- Artificial Intelligence & Machine Learning
+- Software Development
+
+---
+
+## 🎯 Goal
+
+To become a strong software engineer by continuously learning, building, and solving real-world problems.
